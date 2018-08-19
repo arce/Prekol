@@ -1,4 +1,3 @@
-require "prekol"
 local slides
 
 function setup()
